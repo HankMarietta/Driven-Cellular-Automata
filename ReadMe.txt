@@ -1,1 +1,0 @@
-The CALab.exe is the software described in the article "Self-Organization in Driven Cellular Automata" and runs on a Windows 10 or 11 PC.  Place the executable in a folder that contains the subfolders "Rules" and "Seeds".
