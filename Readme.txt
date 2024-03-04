@@ -1,0 +1,1 @@
+The CALab.zip contains CALab.exe and 7 folders that can be extracted to run on a Windows 10 or 11 desktop. This application demonstrates the functions described in the MIT Artifical Life article 'Self-Organization and Phase Transitions in Driven Cellular Automata'.
